@@ -1,0 +1,13 @@
+BasicClass	PrototypeClass.js	/^function BasicClass( age,name){$/
+CreateCounter100	ImmediateUnnamedFunction.js	/^function CreateCounter100(){$/
+MathSum	ImmediateUnnamedFunction.js	/^function MathSum(arg1,arg2){$/
+NaN	BasicFunction.js	/^\/\/意図しない引数を使用した場合 NaN/
+for	Array.js	/^for(var i=0 ; i < a.length;i++){$/
+func01	BasicFunction.js	/^function func01(){$/
+func02	BasicFunction.js	/^function func02(arg1,arg2){$/
+func03	ReturnFunction.js	/^function func03(num01,num02){$/
+function	Array.js	/^var fnc = function(){return 'OK';};$/
+if	ControlSyntaxIf.js	/^if(x % 2 === 0){$/
+isNumber	ReturnFunction.js	/^function isNumber(arg){$/
+switch	ControlSyntaxSwitch.js	/^switch(typeof(value)){$/
+while	ControlSyntaxWhile.js	/^while(i < 5){$/
